@@ -1,0 +1,10 @@
+name = "TrajLearn"
+uuid = "ffb8740d-c393-4e17-9758-7742f63fe230"
+authors = ["yizaochen <yizaochen@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+ArgParse = "c7e460c6-2fb9-53a9-8c5b-16f535851c63"
+Dierckx = "39dd38d3-220a-591b-8e3c-4c3a8c710a94"
+JLD = "4138dd39-2aa7-5051-a626-17a0bb65d9c8"
+SavitzkyGolay = "c4bf5708-b6a6-4fbe-bcd0-6850ed671584"
